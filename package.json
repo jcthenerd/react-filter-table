@@ -1,7 +1,7 @@
 {
   "name": "react-filter-table",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "The goal of this project is to set up a simple and configurable table generator using react components. We will use redux to setup the state management. The table will have customizable columns that can be setup with sizing, sorting, and filtering rules.",
   "main": "app.js",
   "scripts": {
     "build": "webpack",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/jcthenerd/react-filter-table.git"
   },
-  "author": "",
+  "author": "jcthenerd (jc@jcthenerd.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jcthenerd/react-filter-table/issues"
